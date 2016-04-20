@@ -1,3 +1,0 @@
-This is master branch.
-Initial Version.
-new changed+1
