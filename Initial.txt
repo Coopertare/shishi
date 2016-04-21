@@ -1,6 +1,11 @@
 This is master branch.
 Initial Version.
+<<<<<<< HEAD
 zhaokuo
 test from ycf
 use master to test
 use test_branch to test
+=======
+Modified by HeDongbin.
+a changed by lw
+>>>>>>> origin/master
